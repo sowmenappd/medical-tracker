@@ -1,0 +1,127 @@
+#main-wrapper{
+    width: 800px;
+    height: 550px;
+    position: absolute;
+    top:60%; left:50%;
+    margin-left: -400px;
+    margin-top: -350px;
+    background: #ecf0f1;
+    padding: 10px;
+    border: 2px solid #4f505a;
+    border-radius: 10px;
+}
+
+#login-page-header{
+    width: 800px;
+    height: 150px;
+    position: absolute;
+    top:40%; left:50%;
+    margin-left: -400px;
+    margin-top: -350px;
+    background: #1abc9c;
+    padding: 10px;
+    border: 2px solid #4f505a;
+    border-radius: 10px;
+}
+
+#login_btn{
+    width: 300px;
+    padding: 15px 0px 15px 0px;
+    font-size: 23px;
+    text-align: center;
+    background-color: #2ecc71; 
+    border-radius: 40px;
+    border: 2px solid #4f505a;
+    margin-top: 15px;
+    font-family: 'Coda', cursive;
+}
+
+#register_btn{
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #2e80cc; 
+    border-radius: 40px;
+    border: 2px solid #4f505a;
+    margin-top: 5px;
+    font-family: 'Coda', cursive;
+}
+
+#back_btn{
+    width: 140px;
+    padding: 12px 0px 12px 0px;
+    font-size: 15px;
+    text-align: center;
+    background-color: #2ecc71; 
+    border-radius: 40px;
+    border: 2px solid #4f505a;
+    margin-top: 10px;
+    font-family: 'Coda', cursive;
+}
+
+.header-main-text{
+    font-family: "Bowlby One SC";
+    font-size: 65px;
+    text-align: center;
+    margin-top: 20px;
+    color : #ffffff;
+}
+
+.main-wrapper-top-text{
+    font-family: "Alfa Slab One";
+    font-size: 25px;
+    text-align: center;
+    color : #4f505a;
+}
+
+.side-view{
+    position: relative;
+    left: 70%;
+    margin: -320px 0px 10px -10px;
+    border-left : thin solid #5e5c5c;
+    padding-left: 55px;
+}
+
+.rounded-img-med{
+    border-radius: 200px;
+    border: 2px solid #ff00ff;
+    margin-bottom: 40px;
+}
+
+.main-view{
+    position: relative;
+    top: 8%; left: 8%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    width: 400px;
+    height: 350px;
+}
+
+.main-view-2{
+    position: relative;
+    top: 5%; left: 6%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    width: 400px;
+    height: 350px;
+}
+.inputvalues-large{
+    width: 400px;
+    text-align: center;
+    padding: 5px 0px;
+    margin: 15px 0px;
+    font-size: 20px;
+    border: 2px solid thick #2e80cc;
+    border-radius: 20px;
+}
+
+.inputvalues-med{
+    width: 230px;
+    text-align: center;
+    padding: 5px 0px;
+    margin: 15px 0px;
+    font-size: 17px;
+    border: 2px solid thick #2e80cc;
+    border-radius: 20px;
+}

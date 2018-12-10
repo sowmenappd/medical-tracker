@@ -1,0 +1,23 @@
+#test-panel{
+    background-color:#2ecc71;
+    width: 97%;
+    height: 140px;
+    text-align: center;
+    font-style: italic;
+    border: 2px solid thick;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-color: black;
+    border-radius: 10px;
+    position: relative;
+    left: 1.5%;
+}
+
+.logout-btn{
+    position: absolute;
+    top: 80%;
+}
+
+p{
+    font-family: 'Catamaran', sans-serif;
+}
